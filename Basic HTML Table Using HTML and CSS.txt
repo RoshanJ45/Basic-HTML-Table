@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+width: 50%;
+margin: 20px auto;
+border-collapse: collapse;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+th, td {
+padding: 12px;
+text-align: center;
+border: 1px solid #ddd;
+}
+th {
+background-color: #f2f2f2;
+color: #333;
+font-weight: bold;
+}
+td {
+background-color: #fafafa;
+}
+</style>
+</head>
+<body>
+<h2 style="text-align:center;">Basic HTML Table</h2>
+<table>
+<tr>
+<th>Product</th>
+<th>Price</th>
+</tr>
+<tr>
+<td>Notebook</td>
+<td>$5</td>
+</tr>
+<tr>
+<td>Pen</td>
+<td>$1</td>
+</tr>
+</table>
+</body>
+</html>
